@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C8AA-8222
+
+ Directory of C:\Users\choug\OneDrive\Desktop\MyProject
+
+02-04-2023  15:08    <DIR>          .
+02-04-2023  15:04    <DIR>          ..
+02-04-2023  15:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  83,140,816,896 bytes free
